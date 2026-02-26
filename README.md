@@ -1,6 +1,3 @@
-Here is an altered version of the README file. I have kept the core structure, technical details, and code blocks exactly as they are, but I have rephrased the descriptions and section introductions to provide a fresh perspective while maintaining the original meaning.
-
-***
 
 # Privacy-Aware Face Clustering for Event Photo Dispatch
 
